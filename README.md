@@ -2,6 +2,7 @@
 
 ## Overview
 This application automatically prints PDF files that are placed in the working directory and deletes them after printing. It has been converted into a standalone executable (.exe) for ease of use.
+****MAIN EXE IS PRESENT IN dist/printer_automated.exe****
 
 ## Usage
 1. **Place PDF Files:**
